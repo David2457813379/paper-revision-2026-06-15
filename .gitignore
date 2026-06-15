@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# EnergyPlus simulation outputs (too large)
+outputs_step1/runs/
+outputs_step1/generated_idf/
+
+# Temp and backup files
+*.bak
+*.bak2
+_test_*.py
+_e2e_*.py
+fix_notebooks*.py
+reconstruct_dataset.py
+rebuild_and_run_all.py
+run_full_pipeline.py
+generate_engineering_diagram.py
+run_e2e_test.py
+
+# OS
+.DS_Store
+Thumbs.db
