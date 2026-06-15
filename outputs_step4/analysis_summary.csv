@@ -1,0 +1,9 @@
+﻿metric,value
+n_samples,116.0
+eui_mean,143.072286256087
+eui_std,34.00295448225692
+ocei_mean,48.828117058469104
+ocei_std,7.471879420822655
+eui_ocei_pearson_r,
+eui_ocei_pearson_p,
+top10_overlap,0.5454545454545454
